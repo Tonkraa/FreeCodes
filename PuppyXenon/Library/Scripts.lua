@@ -2,7 +2,7 @@ getgenv().SilentKeyy = 'q'
 getgenv().PredictionAmmount = 0.137
 
 --// Main Libarys \\--
-local libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/imagoodpersond/puppyware/main/lib"))()
+local libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tonkraa/PuppyXenon/main/PuppyLibrary/Library/Script"))()
 local NotifyLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/imagoodpersond/puppyware/main/notify"))()
 local Notify = NotifyLibrary.Notify
 --// Service Handler \\--
